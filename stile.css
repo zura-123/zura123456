@@ -1,0 +1,28 @@
+body{
+    padding:30px ;
+}
+.container{
+    width: 494px;
+    margin-inline: auto;
+}
+.container-2{
+    width: 578px;
+}
+p{
+    font-size: 16px;
+}
+span{
+    font-size: 20px;
+}
+.container-4{
+    padding-left: 820px;
+    width: 820px;
+}
+.container-5{
+    Width:578px;
+Height:167px;
+}
+.container-6{
+    max-width: 1335;
+}
+
